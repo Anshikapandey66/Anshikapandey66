@@ -75,10 +75,9 @@
 
 🚀 My Coding Journey
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122012-3f3e7e3b-3f14-4b5f-8d5c-9c7f0e9d7c0e.gif" width="500" alt="Coding Animation"> </p>
+<p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Coding"> </p>
 
-<p align="center"> <b>💻 Turning ideas into code and data into meaningful insights 📊</b> </p>
-
+<p align="center"> <b>💻 Turning ideas into code and data into insights 📊</b> </p>
 
 ---
 ## 🔥 GitHub Streak
