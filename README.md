@@ -73,15 +73,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 My Coding Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshikapandey66&show_icons=true&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Coding">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshikapandey66&layout=compact&theme=tokyonight" />
+  <b>💻 Turning ideas into code and data into insights 📊</b>
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  🐍 Python &nbsp; • &nbsp; 📊 Data Science &nbsp; • &nbsp; 🤖 AI & ML &nbsp; • &nbsp; 🌐 Web Development
+</p>
+
+---
+
+## 💭 Keep Learning • Keep Building • Keep Growing 🚀
+
 
 ---
 ## 🔥 GitHub Streak
