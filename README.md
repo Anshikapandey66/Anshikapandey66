@@ -83,18 +83,6 @@
   <b>💻 Turning ideas into code and data into insights 📊</b>
 </p>
 
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-  🐍 Python &nbsp; • &nbsp; 📊 Data Science &nbsp; • &nbsp; 🤖 AI & ML &nbsp; • &nbsp; 🌐 Web Development
-</p>
-
----
-
-## 💭 Keep Learning • Keep Building • Keep Growing 🚀
-
 
 ---
 ## 🔥 GitHub Streak
