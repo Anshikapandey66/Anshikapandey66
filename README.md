@@ -39,7 +39,7 @@
 
 📧 **[tanumansheer@gmail.com](mailto:your-email@example.com)**
 
-🔗 **[anshikapandey.in]**
+🔗 **[www.anshikapandey.in]**
 
 ---
 
