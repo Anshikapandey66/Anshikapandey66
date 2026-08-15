@@ -37,7 +37,7 @@
 
 ### 📫 How to Reach Me
 
-📧 **[your-email@example.com](mailto:your-email@example.com)**
+📧 **[tanumansheer@gmail.com](mailto:your-email@example.com)**
 
 ---
 
