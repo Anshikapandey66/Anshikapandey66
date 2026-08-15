@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Anshika Pandey
 
-### A passionate BCA (DS & AI) student from India 🇮🇳
+###🎓 A passionate BCA (DS & AI) student at Babu Banarsi Das University | India 🇮🇳
 
 <img src="https://komarev.com/ghpvc/?username=Anshikapandey66&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
@@ -31,7 +31,7 @@
 
 ### 💬 Ask Me About
 
-**Python, Data Science, AI, Machine Learning, HTML, CSS, JavaScript, SQL, Git & GitHub**
+**Python, Data Science, AI, Machine Learning, HTML, CSS, JavaScript, SQL, Git & GitHub, C, Basic Java, SQL**
 
 ---
 
