@@ -76,12 +76,17 @@
 ## 🚀 My Coding Journey
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Coding">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BCA+%7C+Data+Science+%26+AI+%F0%9F%A4%96;Python+%7C+Machine+Learning+%F0%9F%90%8D;Turning+Data+into+Insights+%F0%9F%93%8A;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>💻 Turning ideas into code and data into insights 📊</b>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,mysql,git,github,vscode" />
 </p>
+
+<p align="center">
+  💡 <b>Learn • Build • Create • Grow 🚀</b>
+</p>
+
 
 
 ---
