@@ -38,7 +38,8 @@
 ### 📫 How to Reach Me
 
 📧 **[tanumansheer@gmail.com](mailto:your-email@example.com)**
-🔗**[anshikapandey.in]**
+
+🔗 **[anshikapandey.in]**
 
 ---
 
