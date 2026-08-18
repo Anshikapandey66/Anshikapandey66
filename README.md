@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 # 👋 Hi, I'm **Anshika Pandey**
 
 ### 🎓 BCA (Data Science & AI) Student
