@@ -30,6 +30,7 @@
 **📍 Lucknow, India 🇮🇳 &nbsp; | &nbsp; 🎓 Babu Banarsi Das University &nbsp; | &nbsp; 🚀 Always Learning**
 
 </div>
+
 ---
 
 ### 👩‍💻 About Me
