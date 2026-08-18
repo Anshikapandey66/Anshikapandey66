@@ -1,13 +1,35 @@
 <div align="center">
 
-# Hi 👋, I'm Anshika Pandey
+<div align="center">
 
-🎓 A passionate BCA (DS & AI) student at Babu Banarsi Das University | India 🇮🇳
+# 👋 Hi, I'm **Anshika Pandey**
 
-<img src="https://komarev.com/ghpvc/?username=Anshikapandey66&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+### 🎓 BCA (Data Science & AI) Student
+
+**Babu Banarsi Das University, Lucknow 🇮🇳**
+
+<p>
+  🤖 AI & Machine Learning &nbsp; • &nbsp;
+  📊 Data Science &nbsp; • &nbsp;
+  🐍 Python &nbsp; • &nbsp;
+  💻 Software Development
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Anshikapandey66&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+> **"Learning today. Building tomorrow. Creating impact with code."** 🚀
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,mysql,mongodb,git,github,vscode" />
+
+<br><br>
+
+**📍 Lucknow, India 🇮🇳 &nbsp; | &nbsp; 🎓 Babu Banarsi Das University &nbsp; | &nbsp; 🚀 Always Learning**
 
 </div>
-
 ---
 
 ### 👩‍💻 About Me
