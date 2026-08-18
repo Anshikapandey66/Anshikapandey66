@@ -154,10 +154,126 @@
 
 ## 🚀 My Projects
 
-* 🤖 **AI & Machine Learning Projects**
-* 📊 **Data Science & Data Analysis Projects**
-* 🌐 **Web Development Projects**
-* 🐍 **Python Projects**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,js,mysql,mongodb,git,github" />
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🤖 AI & Machine Learning
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80"/>
+
+**Machine Learning • Deep Learning • AI**
+
+🔹 Python
+🔹 Scikit-Learn
+🔹 TensorFlow / PyTorch
+🔹 Data Preprocessing
+🔹 Model Training & Evaluation
+
+<br>
+
+<a href="https://github.com/Anshikapandey66">
+<img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📊 Data Science
+
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="80"/>
+
+**Data Analysis • Visualization • Insights**
+
+🔹 Python
+🔹 Pandas & NumPy
+🔹 Matplotlib
+🔹 SQL
+🔹 Data Visualization
+
+<br>
+
+<a href="https://github.com/Anshikapandey66">
+<img src="https://img.shields.io/badge/View%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🌐 Web Development
+
+<img src="https://img.icons8.com/fluency/96/web.png" width="80"/>
+
+**Frontend • Backend • Responsive Websites**
+
+🔹 HTML
+🔹 CSS
+🔹 JavaScript
+🔹 React
+🔹 Git & GitHub
+
+<br>
+
+<a href="https://github.com/Anshikapandey66">
+<img src="https://img.shields.io/badge/Web%20Projects-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🐍 Python Projects
+
+<img src="https://img.icons8.com/fluency/96/python.png" width="80"/>
+
+**Automation • APIs • Scripts • Applications**
+
+🔹 Python
+🔹 OOP
+🔹 APIs
+🔹 Automation
+🔹 Problem Solving
+
+<br>
+
+<a href="https://github.com/Anshikapandey66">
+<img src="https://img.shields.io/badge/Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+### 🧠 Currently Building
+
+<img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML-Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊%20Data%20Science-Building-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⛓️%20Blockchain-Exploring-blueviolet?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+  <b>💡 Turning ideas into code, data into insights & projects into experience. 🚀</b>
+</p>
+
 
 ---
 
