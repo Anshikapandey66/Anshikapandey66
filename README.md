@@ -80,16 +80,7 @@
 <p align="center"> <b>💻 Turning ideas into code and data into insights 📊</b> </p>
 
 ---
-## 🔥 GitHub Streak
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=Anshikapandey66&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
 ---
 
 ## ☕ Support Me
