@@ -87,15 +87,34 @@
 </p>
 ---
 
-## ☕ Support Me
+## ☕ Support My Coding Journey
 
-<p align="left">
+<p align="center">
+
+🤖 Building AI & ML Projects
+ • 
+📊 Turning Data into Insights
+ • 
+💻 Turning Ideas into Code
+
+<br><br>
+
+**☕ Fuel the next project!**
+
+<br>
 
 <a href="https://www.buymeacoffee.com/">
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" >
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+       alt="Buy Me A Coffee"
+       height="45">
 </a>
 
+<br><br>
+
+<sub>Every coffee = a little more code ☕ + a little less sleep 😄</sub>
+
 </p>
+
 
 ---
 
