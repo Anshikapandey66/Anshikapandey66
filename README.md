@@ -76,18 +76,61 @@
 ## 🚀 My Coding Journey
 
 <p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="500"
+    alt="Coding"
+  />
+</p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="700"
-  alt="Coding Animation">
+<p align="center">
+  <b>💻 Turning ideas into code • 📊 Data into insights • 🤖 AI into solutions</b>
+</p>
+
+<br>
+
+<h3 align="center">🛠️ Technologies I'm Exploring</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,mongodb,git,github,vscode&perline=7" />
+</p>
+
+<br>
+
+<h3 align="center">🌱 My Learning Path</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🐍%20Python-Programming-3776AB?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/📊%20Data%20Science-Analytics-00A98F?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML-Exploring-FF6F00?style=for-the-badge" />
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=💻+Turning+Ideas+Into+Code;🤖+Building+AI+%26+ML+Projects;📊+Turning+Data+Into+Insights;🌐+Exploring+Web+Development;⛓️+Learning+Blockchain;🚀+Always+Learning+Something+New" 
-  alt="Typing Animation">
+<img src="https://img.shields.io/badge/🌐%20Web%20Development-Building-61DAFB?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/⛓️%20Blockchain-Learning-8A2BE2?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/🐙%20Git%20%26%20GitHub-Active-181717?style=for-the-badge" />
 
+</p>
+
+<br>
+
+<p align="center">
+  <b>✨ Learn → Build → Break → Fix → Repeat 🔁</b>
+</p>
+
+<p align="center">
+  🚀 <i>Always learning. Always building. Always growing.</i> 🚀
 </p>
 
 ---
