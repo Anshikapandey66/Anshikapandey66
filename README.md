@@ -73,11 +73,98 @@
 
 ---
 
-🚀 My Coding Journey
+## 🚀 My Coding Journey
 
-<p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Coding"> </p>
+<p align="center">
 
-<p align="center"> <b>💻 Turning ideas into code and data into insights 📊</b> </p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="700"
+  alt="Coding Animation">
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=💻+Turning+Ideas+Into+Code;🤖+Building+AI+%26+ML+Projects;📊+Turning+Data+Into+Insights;🌐+Exploring+Web+Development;⛓️+Learning+Blockchain;🚀+Always+Learning+Something+New" 
+  alt="Typing Animation">
+
+</p>
+
+---
+
+### 🧠 My Tech Journey
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,mysql,mongodb,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+</p>
+
+---
+
+### 📈 Learning • Building • Growing
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🐍%20Python-Building%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML-Exploring-FF6F00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/📊%20Data%20Science-Learning-00A98F?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🌐%20Web%20Development-Building-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/⛓️%20Blockchain-Exploring-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🐙%20Git%20%26%20GitHub-Active-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+  width="320"
+  alt="Coding GIF">
+
+   
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+  width="320"
+  alt="Programming GIF">
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 Code. Learn. Build. Repeat. 🔁
+
+<br>
+
+**🌱 Started with curiosity → 💻 Learning by building → 🚀 Growing every day**
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILDING-PROJECTS-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN%20TO-NEW%20IDEAS-orange?style=for-the-badge" />
+
+</p>
 
 ---
 ## 🔥 GitHub Streak
@@ -85,6 +172,8 @@
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
+
+---
 
 ## ☕ Fuel My Code
 
