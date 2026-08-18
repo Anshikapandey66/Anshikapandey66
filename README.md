@@ -80,7 +80,11 @@
 <p align="center"> <b>💻 Turning ideas into code and data into insights 📊</b> </p>
 
 ---
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
 ---
 
 ## ☕ Support Me
