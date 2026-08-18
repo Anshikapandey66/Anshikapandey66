@@ -17,7 +17,7 @@
 
 <br><br>
 
-> **"Learning today. Building tomorrow. Creating impact with code."** 🚀
+**"Learning today. Building tomorrow. Creating impact with code."** 🚀
 
 <br>
 
