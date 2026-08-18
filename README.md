@@ -87,33 +87,51 @@
 </p>
 ---
 
-## ☕ Support My Coding Journey
+## ☕ Fuel My Code
 
 <p align="center">
 
-🤖 Building AI & ML Projects
- • 
-📊 Turning Data into Insights
- • 
-💻 Turning Ideas into Code
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=F7B93E&center=true&vCenter=true&width=600&lines=☕+Coffee+%2B+Code+%3D+New+Projects;🤖+Building+AI+%26+ML+Projects;📊+Turning+Data+into+Insights;🚀+Learning+Something+New+Every+Day" />
 
-<br><br>
+</p>
 
-**☕ Fuel the next project!**
+<p align="center">
+
+<a href="https://www.buymeacoffee.com/">
+<img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-F7B93E?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+
+<a href="https://github.com/Anshikapandey66">
+<img src="https://img.shields.io/badge/⭐%20Star%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 <br>
 
-<a href="https://www.buymeacoffee.com/">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
-       alt="Buy Me A Coffee"
-       height="45">
-</a>
+<p align="center">
 
-<br><br>
-
-<sub>Every coffee = a little more code ☕ + a little less sleep 😄</sub>
+<img src="https://img.shields.io/badge/🐍%20Python-Expertise-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML-Learning-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/📊%20Data%20Science-Building-00A98F?style=flat-square" />
+<img src="https://img.shields.io/badge/💻%20Open%20Source-Contributor-181717?style=flat-square&logo=github&logoColor=white" />
 
 </p>
+
+<p align="center">
+
+### 💡 Support • Learn • Build • Repeat 🔁
+
+☕ **One coffee = more code**
+🤖 **More code = more projects**
+🚀 **More projects = more learning**
+
+</p>
+
+<p align="center">
+<sub>✨ Every little support motivates me to keep building and sharing! ✨</sub>
+</p>
+
 
 
 ---
