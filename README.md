@@ -12,7 +12,8 @@
   🐍 Python &nbsp; • &nbsp;
   💻 Software Development 
 </p> 
-<img src="https://komarev.com/ghpvc/?username=Anshikapandey66" alt="Profile Views">
+
+<img src="https://viewcounter.live/Anshikapandey66" alt="Profile Views" />
 <br><br>
 
 **"Learning today. Building tomorrow. Creating impact with code."** 🚀
